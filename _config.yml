@@ -1,3 +1,4 @@
-remote_theme: nielsenramon/chalk
 title: Tareian Cazares
 description: I am using this site to document my thesis research, the things I learn, and projects I am working on. 
+markdown: kramdown
+remote_theme: nielsenramon/chalk
