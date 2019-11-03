@@ -4,7 +4,7 @@ Use the search bar to quickly find specific code or topics of interest on my sit
 
 ### Public Profiles:
 
-https://www.linkedin.com/in/tareian-cazares-83023766/
+www.linkedin.com/in/tacazares
 
 https://twitter.com/tareian_it_up
 
