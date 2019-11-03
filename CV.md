@@ -12,6 +12,7 @@ ___
 ### August 2009 - May 2013
 <p>Ball State University, Muncie, IN B.S., Biology</p>			    	    
 
+___
 ## RESEARCH
 ___
 ### July 2018 – Current
@@ -40,6 +41,7 @@ ___
 <p>Advisors: James Olesen, Ph.D.</p> 
 <p>Characterizing the role of TAL1 in T-cell acute lymphoblastic leukemia</p> 
 
+___
 ## PUBLICATIONS
 ___
 ### GO Pilarowski, TA Cazares, …, A Barski, HT Bjornsson, AW Lindsley, Widespread B cell-associated dysfunction in Kabuki syndrome mice, Journal of Applied Clinical Immunology, (In review, October 2019)
@@ -48,6 +50,7 @@ ___
 
 <p>Curr Allergy Asthma Rep. 2016 Jul;16(7):48. doi: 10.1007/s11882-016-0628-3.</p> 
 
+___
 ## PRESENTATIONS
 ___
 ### TA Cazares, Optimizing ATAC-seq based Transcription Factor Binding Predictions for Gene Regulatory Network Inference, Cincinnati Children’s Hospital Immunobiology Retreat 2019 (Poster)
@@ -60,6 +63,7 @@ ___
 
 ### TA Cazares, GO Pilarowski, A Barski, HT Bjornsson, AW Lindsley, A mouse model of type 1 Kabuki syndrome with defective humoral responses to mucosal vaccination, Clinical Immunology Society Meeting 2017 (Talk)
 
+___
 ## TEACHING AND SCHOLASTIC EXPERIENCE
 ___
 
@@ -75,6 +79,7 @@ ___
 
 <p>Indiana East Central Regional Scienc Fair Judge, Muncie, IN</p> 
 
+___
 ## AWARDS
 ___
 <p>Tuition, travel, and lodging scholarship, DeCART Bioinformatics Summer School Scholarship, University of Utah, Salt Lake City, UT (2018)</p> 
