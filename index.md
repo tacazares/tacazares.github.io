@@ -9,5 +9,3 @@ www.linkedin.com/in/tacazares
 https://twitter.com/tareian_it_up
 
 <a href="https://www.researchgate.net/profile/Tareian_Cazares">Tareian Cazares on ResearchGate</a>
-
-<button type="button" name="button" class="btn">Button</button>
