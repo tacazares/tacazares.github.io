@@ -4,11 +4,11 @@ Use the search bar to quickly find specific code or topics of interest on my sit
 
 ### Public Profiles:
 
-www.linkedin.com/in/tacazares
+<a href="https://www.linkedin.com/in/tacazares">LinkedIN</a>
 
-https://twitter.com/tareian_it_up
+<a href="https://twitter.com/tareian_it_up">Twitter</a>
 
-<a href="https://www.researchgate.net/profile/Tareian_Cazares">Tareian Cazares on ResearchGate</a>
+<a href="https://www.researchgate.net/profile/Tareian_Cazares">ResearchGate</a>
 
-[GitHub scripts](./scripts/scripts.md)
+<a href="https://github.com/tacazares/scripts">GitHub scripts</a>
 
