@@ -77,7 +77,9 @@ ___
 
 
 * TA Cazares, GO Pilarowski, A Barski, HT Bjornsson, AW Lindsley, A mouse model of type 1 Kabuki syndrome with defective humoral responses to mucosal vaccination, Clinical Immunology Society Meeting 2017 (Talk)
+
 ___
+
 ## TEACHING AND SCHOLASTIC EXPERIENCE
 ___
 
