@@ -7,10 +7,12 @@ ___
 <p>Ph.D. Candidate, Immunology Graduate Program</p>
 
 ### August 2013 - May 2015
-<p>Ball State University, Muncie, IN M.S., Biology</p>
+<p>Ball State University, Muncie, IN</p> 
+<p>M.S., Biology</p>
 
 ### August 2009 - May 2013
-<p>Ball State University, Muncie, IN B.S., Biology</p>			    	    
+<p>Ball State University, Muncie, IN</p> 
+<p>B.S., Biology</p>			    	    
 
 ___
 ## RESEARCH
