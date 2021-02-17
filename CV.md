@@ -44,25 +44,37 @@ ___
 ___
 ## PUBLICATIONS
 ___
-### GO Pilarowski, TA Cazares, …, A Barski, HT Bjornsson, AW Lindsley, Widespread B cell-associated dysfunction in Kabuki syndrome mice, Journal of Applied Clinical Immunology, (In review, October 2019)
+### 2021 
 
-### 2016	E Schauberger, M Peinhaupt, TA Cazares, AW Lindsley, Lipid mediators of allergic disease: pathways, treatments, and emerging therapeutic targets, Current Allergy and Asthma Reports 2016
+* X Lu, X Chen, C Forney, O Donmez, D Miller, S Parameswaran, T Hong, Y Huang, M Pujato, T Cazares, ER Miraldi, JP Ray, CG de Boer, JB Harley, MT Weirauch, and LC Kottyan. Global discovery of lupus genetic risk variant allelic enhancer activity. Nature Communications
 
-<p>Curr Allergy Asthma Rep. 2016 Jul;16(7):48. doi: 10.1007/s11882-016-0628-3.</p> 
+### 2020
 
+* GO Pilarowski, TA Cazares, …, A Barski, HT Bjornsson, AW Lindsley. Abnormal Peyer patch development and B-cell gut homing drive IgA deficiency in Kabuki syndrome, Journal of Allergy and Clinical Immunology 145 (3), 982-992
+
+### 2016 
+
+* E Schauberger, M Peinhaupt, TA Cazares, AW Lindsley, Lipid mediators of allergic disease: pathways, treatments, and emerging therapeutic targets, Current Allergy and Asthma Reports 2016
 ___
 ## PRESENTATIONS
 ___
-### TA Cazares, Optimizing ATAC-seq based Transcription Factor Binding Predictions for Gene Regulatory Network Inference, Cincinnati Children’s Hospital Immunobiology Retreat 2019 (Poster)
 
-### TA Cazares, Modeling Epstein-Barr virus transcriptional regulatory networks in lymphoblastoid cell lines, Cold Spring Harbor Systems Immunology Meeting 2019 (Poster)
+* TA Cazares, maxATAC: A suite of user-friendly neural network models for transcription factor binding prediction from ATAC-seq, Cincinnati Children’s Hospital Immunobiology Retreat 2020 (Poster)
+  
 
-### TA Cazares, Leveraging 3D Chromatin Structure and Allele-Specific Transcription Factor Binding to Infer Transcriptional Regulatory Networks, Cincinnati Children’s Hospital Immunobiology Retreat 2018 (Poster)
+* TA Cazares, Optimizing ATAC-seq based Transcription Factor Binding Predictions for Gene Regulatory Network Inference, Cincinnati Children’s Hospital Immunobiology Retreat 2019 (Poster)
 
-### TA Cazares, Transcriptional Regulatory Network Inference for Intestinal Myeloid Cells, Autumn Immunology Conference 2017 (Talk)
 
-### TA Cazares, GO Pilarowski, A Barski, HT Bjornsson, AW Lindsley, A mouse model of type 1 Kabuki syndrome with defective humoral responses to mucosal vaccination, Clinical Immunology Society Meeting 2017 (Talk)
+* TA Cazares, Modeling Epstein-Barr virus transcriptional regulatory networks in lymphoblastoid cell lines, Cold Spring Harbor Systems Immunology Meeting 2019 (Poster)
 
+
+* TA Cazares, Leveraging 3D Chromatin Structure and Allele-Specific Transcription Factor Binding to Infer Transcriptional Regulatory Networks, Cincinnati Children’s Hospital Immunobiology Retreat 2018 (Poster)
+
+
+* TA Cazares, Transcriptional Regulatory Network Inference for Intestinal Myeloid Cells, Autumn Immunology Conference 2017 (Talk)
+
+
+* TA Cazares, GO Pilarowski, A Barski, HT Bjornsson, AW Lindsley, A mouse model of type 1 Kabuki syndrome with defective humoral responses to mucosal vaccination, Clinical Immunology Society Meeting 2017 (Talk)
 ___
 ## TEACHING AND SCHOLASTIC EXPERIENCE
 ___
@@ -75,7 +87,7 @@ ___
 
 <p>AP Biology Tutor, Muncie, IN</p> 
 
-### Febrary 22, 2015
+### February 22, 2015
 
 <p>Indiana East Central Regional Scienc Fair Judge, Muncie, IN</p> 
 
