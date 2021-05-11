@@ -62,6 +62,7 @@ ___
 
 ## PRESENTATIONS
 ___
+* TA Cazares, maxATAC: a suite of user-friendly neural network models for transcription factor binding prediction from ATAC-seq, Cold Spring Harbor Probabilistic Modeling in Genomics 2021 (Poster)
 
 * TA Cazares, maxATAC: A suite of user-friendly neural network models for transcription factor binding prediction from ATAC-seq, Cincinnati Children’s Hospital Immunobiology Retreat 2020 (Poster)
   
