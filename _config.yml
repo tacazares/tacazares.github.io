@@ -1,4 +1,4 @@
 title: Tareian Cazares, PhD Candidate
 description: I am using this site to document my thesis research, the things I learn, and projects I am working on. 
-remote_theme: pmarsceill/just-the-docs
+theme: jekyll-theme-basically-basic
 markdown:    kramdown
