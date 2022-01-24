@@ -1,4 +1,6 @@
-# About Me
+# Welcome
+
+## About Me
 
 I am a PhD candidate in the Immunology Graduate Program at the University of Cincinnati and Cincinnati Children's Hospital Medical Center. I currently work in the [Miraldi Lab]("https://www.cincinnatichildrens.org/research/divisions/i/immunobiology/labs/miraldi") at CCHMC.
 
