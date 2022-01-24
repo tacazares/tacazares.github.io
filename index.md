@@ -1,6 +1,4 @@
-# Welcome
-
-## About Me
+# About Me
 
 I am a PhD candidate in the Immunology Graduate Program at the University of Cincinnati and Cincinnati Children's Hospital Medical Center. I currently work in the [Miraldi Lab]("https://www.cincinnatichildrens.org/research/divisions/i/immunobiology/labs/miraldi") at CCHMC.
 
@@ -12,7 +10,7 @@ I recieved my BS (2013) and MS (2015) in Biology from Ball State University. Dur
 My research focuses on developing computational methods to study how genomic regulation contributes to cellular behavior in rare immune cell types. Currently, I am working with a team of interdisciplinary scientists on a project called maxATAC. MaxATAC is a computational method that utilizes state-of-the-art machine-learning methods to predict transcription factor binding across cell types using ATAC-seq data and DNA sequence. Our plans are to use maxATAC to predict transcription factor binding in rare cell populations, like those derived from patient biopsies, where experimental ChIP-seq is not feasible. 
 
 
-### Public Profiles:
+## Public Profiles:
 
 [Google Scholar](https://scholar.google.com/citations?user=nsCUpQMAAAAJ&hl=en)
 
