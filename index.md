@@ -22,5 +22,5 @@ My research focuses on developing computational methods to study how genomic reg
 
 [ResearchGate](https://www.researchgate.net/profile/Tareian_Cazares)
 
-[GitHub scripts](https://github.com/tacazares/scripts)
+[GitHub](https://github.com/tacazares?tab=repositories)
 
